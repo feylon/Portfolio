@@ -1,0 +1,30 @@
+*{
+    background: none;
+}
+.button1{
+    border-radius: 10px;
+    display: block;
+    border: none;
+    background-color: none;
+    height: 40px;
+    color: #0067f6;
+    height: 40px;
+    width: 130px;
+    
+    border: #0067f6 1px solid;
+    transition: 0.3s ease all;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.button1:hover{
+    color: white;
+    background-color: #0067f6;
+}
+.loading{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

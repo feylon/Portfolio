@@ -1,0 +1,81 @@
+*{
+    background: none;
+}
+.container{
+    margin: auto auto;
+    background: none;
+}
+h4{
+    background: none;
+}
+p,span{
+    background:none;
+}
+.write_my_email{
+    font-weight: 600;
+    margin-left: 10px;
+}
+.child_container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.child_container_left, .child_container_right {
+    width: calc(50% - 13px);
+
+}
+.box_section{
+    width: calc(100% - 20px);
+    border-radius: 11px;;
+    height: 100px;
+    border: 1px solid #bdb7b7;
+    margin-right: 20px;
+    display: flex;
+    padding-left: 30px;
+    /* justify-content: center; */
+    align-items: center;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+.box-child p{
+font-size: 13px;
+}
+.box_section:hover{
+    background-color: #0067f6;;
+    color: white;
+    transform: translate(10px, 10px);
+    border: none;
+}
+.child_input{
+    margin-top: 30px;
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+[placeholder="Matnni kiriting"],[placeholder="Name"],[placeholder="Email"]::placeholder{
+    font-size: 13px;
+   
+   
+}
+.child_input_1{
+    width: calc(100% - 20px);  
+}
+.textarea{
+    height: 100px;
+    resize: none;
+}
+.send{
+    border-radius: 10px;
+    border: none;
+    background-color: none;
+    height: 40px;
+    color: #0067f6;
+    height: 40px;
+    width: 100px;
+    border: #0067f6 1px solid;
+    transition: 0.3s ease all;
+
+}
+.send:hover{
+    color: white;
+    background-color: #0067f6;
+}
