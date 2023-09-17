@@ -1,10 +1,11 @@
 <template>
 
     
-<h5 class="hello">   HELLO, DAISY MURPHY! </h5>
+<h5 class="hello">   Salom, Mening ismim Jamshid! </h5>
 <span class="about_me">
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+    <!-- I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies. -->
+Men <b>FrontEnd</b> yo'nalishidagi dasturchiman. 
+<br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sequi mollitia fugiat quidem, veritatis nam, libero quaerat minima magnam enim, distinctio consectetur! Veritatis, porro quae perferendis dolor ut quis mollitia, nostrum hic laboriosam magni in exercitationem accusamus quam similique iusto vero atque rem cum! Iure dolorum id sequi laborum delectus quod voluptas eum. Ad ullam culpa odit soluta unde quam? Labore animi incidunt facere necessitatibus consectetur! Provident sunt iste vero a pariatur. Iure iste perspiciatis ipsum quam illo rerum culpa molestias numquam maxime unde ducimus tenetur accusantium dolorum provident velit impedit labore quis, sed optio atque nisi eveniet minima! Impedit?
     
 
 </span>
@@ -13,16 +14,29 @@
 
 
 <span class="what_i_do">
-    What i do?
+    Men nimalarni bilaman ?
 </span>
-<h4 class="SERVICES">SERVICES</h4>
+<h4 class="SERVICES mt-2">
+    Texnologiyalar
+</h4>
 <div class="services_section">
 <div class="services_section_left">
 <div class="services_section_box">
     <img src="./../assets/001-target.svg" alt="">
 
 <div class="services_section_content">
-    <p>web designing</p>
+    <p>VUE JS</p>
+    <span>
+        Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.
+    </span>
+</div>
+</div>
+
+<div class="services_section_box">
+    <img src="./../assets/002-development.svg" alt="">
+
+<div class="services_section_content">
+    <p>Pinia</p>
     <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
 </div>
 </div>
@@ -31,7 +45,7 @@
     <img src="./../assets/002-development.svg" alt="">
 
 <div class="services_section_content">
-    <p>Development</p>
+    <p>Pinia</p>
     <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
 </div>
 </div>
@@ -42,16 +56,25 @@
     <img src="./../assets/003-idea.svg" alt="">
 
 <div class="services_section_content">
-    <p>Graphic design</p>
+    <p>JavaScript</p>
+    <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
+</div>
+</div>
+
+<div class="services_section_box ms-2">
+    <img src="./../assets/004-smartphone.svg" alt="">
+
+<div class="services_section_content">
+    <p>CSS</p>
     <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
 </div>
 </div>
 
 <div class="services_section_box">
-    <img src="./../assets/004-smartphone.svg" alt="">
+    <img src="./../assets/002-development.svg" alt="">
 
 <div class="services_section_content">
-    <p>Development</p>
+    <p>HTML</p>
     <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
 </div>
 </div>

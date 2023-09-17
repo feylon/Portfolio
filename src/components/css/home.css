@@ -157,3 +157,25 @@ margin-top: 40px;
     margin-top: 20px;
     background: none;
 }
+@media(max-width:990px){
+    .services_section_left,.services_section_right{
+        /* min-width: 100%; */
+    }
+    .services_section{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 10px;
+
+    }
+    .services_section_left{
+    border-left: 1px solid #f3f3f3;
+
+    }
+    .services_section_right{
+
+    }
+    .services_section_box{
+        max-width: 100%;
+        width: 100%;
+    }
+}

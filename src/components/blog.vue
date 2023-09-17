@@ -9,7 +9,7 @@
 </div>
 </div>
 <div class="row" v-else>
-    <div v-for="(i,j) in data" class="col-4 mb-2" :key="j">
+    <div v-for="(i,j) in data" class="col-4 col-md-6 col-lg-4 col-sm-12 m-auto mb-2" :key="j">
         <div class="card" style="width: 18rem;">
   <img :src="i.urlToImage" alt="...">
   <div class="card-body">

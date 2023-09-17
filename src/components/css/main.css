@@ -150,7 +150,7 @@
     justify-content: center;
     align-items: center;
     font-size: 14px;
-    transition: all 0.5s ease;
+    transition: color 0.5s ease;
 }
 .sciols a div:hover {
     color: white;
@@ -168,7 +168,7 @@
     justify-content: space-around;
 }
 .sciols i {
-    background-color: #fff;
+    background-color: transparent;
 }
 .widjet {
     display: flex;
@@ -249,3 +249,43 @@
 }
 /* moslashuvchanlik
  */
+
+
+
+ @media (max-width:760px) {
+    .content {
+    display: block;
+    margin: 300px;
+    /* width: 100%!important; */
+    justify-content: center;
+    min-width: 100vw!important;
+
+}
+.components {
+    min-width: 100vw!important;
+    }
+}
+
+@media (max-width:990px) {
+    .me-info{
+        width: 100vw;
+        display: none;
+    }
+.components {
+margin: auto 20px;
+min-width: 100vw;
+}
+.menus{
+    margin: auto;
+    position: sticky;
+    top: 20px;
+}
+.share, .menu{
+    display: none;
+    position: relative;
+}
+.content {
+    display: flex;
+    margin: auto;
+}
+}

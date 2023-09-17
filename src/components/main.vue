@@ -46,10 +46,10 @@
                             Shaxsiy ma'lumotlar
                         </h5>
                         <p><b>Tug'ilgan kun</b>: 14 sentyabr 2002 y.</p>
-                        <p><b>Website</b> : Nomalum</p>
-                        <p><b>Phone</b> : +998 99 261 14 09</p>
+                        <p><b>Web - site</b> : Nomalum</p>
+                        <p><b>Telefon</b> : +998 99 261 14 09</p>
                         <p><b>Mail</b>: jamshid14092002@gmail.com</p>
-                        <p><b>Location</b>: Samarqand viloyati</p>
+                        <p><b>Joylashuv</b>: Samarqand viloyati</p>
                     </div>
 
                     <button>

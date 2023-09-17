@@ -63,7 +63,7 @@
 </div>
 
 <div ref="item_pics" @mouseleave="outsider" @mouseenter="entered(6)" class="item_pics">
-    <img  src="../assets/img_7.png" alt="">
+    <img  src="../assets/img_8.png" alt="">
     <div :class="pics[6]?'hover':''" class="items_pics_hover">
 <div class="hover_section">
     <h6>Proyekt : 007</h6>
