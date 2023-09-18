@@ -58,8 +58,21 @@ Men <b>FrontEnd</b> yo'nalishidagi dasturchiman. Hozirgi paytda TATU  Samarqand 
 </div>
 <div class="services_section_right">
     <div class="services_section_box">
+    <img src="./../assets/firebase.png" alt="">
+
+<div class="services_section_content ps-2">
+    <p>Google Firebase</p>
+    <span>
+Google firebasening ko'plab texnoloyilari bilan bilan ishlaganman, Shu jumladan "Database", "Firestore","Authentication" va "Datastore"
+    </span>
+</div>
+</div>
+    <div class="services_section_box">
     <img class="r-50" src="./../assets/javascript.png" alt="">
 
+
+
+    
 <div class="services_section_content">
     <p>JavaScript</p>
     <span>
@@ -79,15 +92,7 @@ Men <b>FrontEnd</b> yo'nalishidagi dasturchiman. Hozirgi paytda TATU  Samarqand 
 </div>
 </div>
 
-<div class="services_section_box">
-    <img src="./../assets/html17.jpg" alt="">
 
-<div class="services_section_content">
-    <p>HTML</p>
-    <span>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam nam dolore asperiores harum ratione officia fuga nemo itaque! Nisi dicta ipsum!    </span>
-</div>
-</div>
 
 </div>
 
