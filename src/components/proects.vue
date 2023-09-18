@@ -1,7 +1,7 @@
 <template>
     <div class="h5">Proyektlarim</div>
     <div class="container">
-        <table class="table ">
+        <table class="table u bg-light">
       <thead>
     <tr>
       <th class="text-center" scope="col">#</th>
@@ -46,11 +46,17 @@ get_data()
 *{
     background: none;
 }
-tr{
-    background: none;
+tr, td{
+    background: none!important;;
 
 }
 .h5{
-  background-color: transparent ;
+  background-color: transparent!important;;
+}
+table{
+ background-color: none!important;; 
+}
+.u{
+  background-color: white!important;;
 }
 </style>

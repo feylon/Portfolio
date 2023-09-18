@@ -4,7 +4,7 @@
 <h5 class="hello">   Salom, Mening ismim Jamshid! </h5>
 <span class="about_me">
     <!-- I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies. -->
-Men <b>FrontEnd</b> yo'nalishidagi dasturchiman. 
+Men <b>FrontEnd</b> yo'nalishidagi dasturchiman. Hozirgi paytda TATU  Samarqand filialida III kurs talabasiman. 
 <br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sequi mollitia fugiat quidem, veritatis nam, libero quaerat minima magnam enim, distinctio consectetur! Veritatis, porro quae perferendis dolor ut quis mollitia, nostrum hic laboriosam magni in exercitationem accusamus quam similique iusto vero atque rem cum! Iure dolorum id sequi laborum delectus quod voluptas eum. Ad ullam culpa odit soluta unde quam? Labore animi incidunt facere necessitatibus consectetur! Provident sunt iste vero a pariatur. Iure iste perspiciatis ipsum quam illo rerum culpa molestias numquam maxime unde ducimus tenetur accusantium dolorum provident velit impedit labore quis, sed optio atque nisi eveniet minima! Impedit?
     
 
@@ -22,60 +22,70 @@ Men <b>FrontEnd</b> yo'nalishidagi dasturchiman.
 <div class="services_section">
 <div class="services_section_left">
 <div class="services_section_box">
-    <img src="./../assets/001-target.svg" alt="">
+    <img src="./../assets/vue.png" alt="">
 
 <div class="services_section_content">
     <p>VUE JS</p>
     <span>
-        Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.
+        Vue.js 3 iishlash texnologiyasi. Hozirgi VUE 3 "Compotion api" bilan turli xil ilovalar chiqaraman.
+        
     </span>
 </div>
 </div>
 
 <div class="services_section_box">
-    <img src="./../assets/002-development.svg" alt="">
+    <img src="./../assets/Pinia.png" alt="">
 
 <div class="services_section_content">
     <p>Pinia</p>
-    <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
+    <span>
+        Pinia js  vue.jsning yordamchi statlar boshqaruvi bo'lgani uchun bu borada bir muncha tajribam bor
+        </span>
 </div>
 </div>
 
 <div class="services_section_box">
-    <img src="./../assets/002-development.svg" alt="">
+    <img src="./../assets/git.png" alt="">
 
 <div class="services_section_content">
-    <p>Pinia</p>
-    <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
+    <p>Git</p>
+    <span>
+    VCS(Version control system) - versiyalar  boshqarish ishlash tajribasiga egaman.    
+    </span>
 </div>
 </div>
 
 </div>
 <div class="services_section_right">
     <div class="services_section_box">
-    <img src="./../assets/003-idea.svg" alt="">
+    <img class="r-50" src="./../assets/javascript.png" alt="">
 
 <div class="services_section_content">
     <p>JavaScript</p>
-    <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
+    <span>
+        JavaScript bilan ishlash tajrimasi bilan yetarlicha tajribaga egaman. Bu borada DOM(Document Object Model), APIlar bilan ishlash va ko'plab tizimlar bilan ishlay olaman.
+    </span>
 </div>
 </div>
 
-<div class="services_section_box ms-2">
-    <img src="./../assets/004-smartphone.svg" alt="">
+<div class="services_section_box ">
+    <img src="./../assets/css17.png" alt="">
 
 <div class="services_section_content">
     <p>CSS</p>
-    <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
+    <span>CSS bilan veb sahifalarga stil berish bo'yicha bir muncha tajribaga egaman.    
+        <br>
+    </span>
 </div>
 </div>
 
 <div class="services_section_box">
-    <img src="./../assets/002-development.svg" alt="">
+    <img src="./../assets/html17.jpg" alt="">
 
 <div class="services_section_content">
     <p>HTML</p>
-    <span>Mauris magna sapien, pharetra consectetur fringilla vitae, interdum sed tortor.</span>
+    <span>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam nam dolore asperiores harum ratione officia fuga nemo itaque! Nisi dicta ipsum!    </span>
 </div>
 </div>
 

@@ -179,3 +179,10 @@ margin-top: 40px;
         width: 100%;
     }
 }
+.services_section_box img {
+    height: 60px;
+    width: 60px;
+}
+.r-50{
+    border-radius: 50%;
+}

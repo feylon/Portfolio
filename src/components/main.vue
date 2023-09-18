@@ -34,7 +34,7 @@
                        <a href="#"><div><i class="fab fa-twitter"></i></div></a>
                        <a href="#"><div><i class="fab fa-behance"></i></div></a>
                        <a href="#"><div><i class="fab fa-dribbble"></i></div></a>
-                       <a href="#"><div><i class="fab fa-github"></i></div></a>
+                       <a href="https://github.com/feylon"><div><i class="fab fa-github"></i></div></a>
                        
                         
                         
