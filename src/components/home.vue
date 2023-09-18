@@ -10,7 +10,7 @@ Men <b>FrontEnd</b> yo'nalishidagi dasturchiman. Hozirgi paytda TATU  Samarqand 
 
 </span>
 <div></div>
-<button class="hire_me">hire me</button>
+
 
 
 <span class="what_i_do">
